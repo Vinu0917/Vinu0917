@@ -1,6 +1,8 @@
 # Hi there, I'm Vinuji Balasooriya 👋
 
-<img align="right" src="./media/photo.png" width="300"/>
+<div align="center">
+  <img src="./media/photo.png" width="300" style="border-radius: 10px;"/>
+</div>
 
 ## 🎨 Aspiring Frontend Developer | UI/UX Enthusiast | Ethical Tech Advocate
 
