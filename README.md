@@ -1,7 +1,9 @@
 # Hi there, I'm Vinuji Balasooriya 👋
 
 <div align="center">
-  <img src="./media/photo.png" width="300" style="border-radius: 10px;"/>
+  <img src="./media/photo.png" width="300"/>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;Computer+Science+Student;Ethical+Tech+Advocate)](https://git.io/typing-svg)
 </div>
 
 ## 🎨 Aspiring Frontend Developer | UI/UX Enthusiast | Ethical Tech Advocate
