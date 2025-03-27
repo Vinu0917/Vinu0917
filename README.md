@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Vinuji Balasooriya 👋
 
-<!--
-**Vinu0917/Vinu0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="./media/photo.png" width="300"/>
 
-Here are some ideas to get you started:
+## 🎨 Aspiring Frontend Developer | UI/UX Enthusiast | Ethical Tech Advocate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science undergraduate at the University of Westminster, passionate about creating beautiful and user-centric web experiences. My journey revolves around transforming creative ideas into interactive, visually appealing, and accessible web applications.
+
+## 🎨 Aspiring Frontend Developer | UI/UX Enthusiast | Ethical Tech Advocate
+
+I'm a Computer Science undergraduate at the University of Westminster, passionate about creating beautiful and user-centric web experiences. My journey revolves around transforming creative ideas into interactive, visually appealing, and accessible web applications.
+
+### 🚀 About Me
+
+- 🎓 Currently pursuing Computer Science at University of Westminster
+- 💻 Focusing on Frontend Development and UI/UX Design
+- 🌱 Learning and growing in JavaScript, HTML, CSS, and modern frameworks
+- 🤝 Advocate for ethical technology and inclusive design
+- 📚 Strong foundation in Java programming, data structures, and algorithms
+
+### 🛠️ Tech Stack
+
+Frontend     : HTML5, CSS3, JavaScript
+Programming  : Java
+Tools        : Git, VS Code
+Learning     : React, UI/UX Design Principles
+
+### 🎯 Current Focus
+
+- Expanding my frontend development toolkit
+- Exploring modern web frameworks
+- Building responsive and accessible web applications
+- Understanding the intersection of technology, law, and ethics
+
+### 🤝 Let's Connect!
+
+I'm always excited to collaborate on projects that push the boundaries of frontend development while maintaining ethical considerations. Whether it's crafting engaging user interfaces or discussing the latest in web technologies, I'm all ears!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinuji-balasooriya-93700b333/)
+
+### 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinu0917&show_icons=true&theme=radical)
+
+---
+
+💡 *"Crafting digital experiences that are not just functional, but responsible and inclusive."*
