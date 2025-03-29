@@ -22,10 +22,6 @@
 
 I'm a Computer Science undergraduate at the University of Westminster, passionate about creating beautiful and user-centric web experiences. My journey revolves around transforming creative ideas into interactive, visually appealing, and accessible web applications.
 
-## 🎨 Aspiring Frontend Developer | UI/UX Enthusiast | Ethical Tech Advocate
-
-I'm a Computer Science undergraduate at the University of Westminster, passionate about creating beautiful and user-centric web experiences. My journey revolves around transforming creative ideas into interactive, visually appealing, and accessible web applications.
-
 ### 🚀 About Me
 
 - 🎓 Currently pursuing Computer Science at University of Westminster
